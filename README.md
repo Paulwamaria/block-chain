@@ -18,3 +18,9 @@ Make sure to activate the vitual environment
 python3.6 -m pytest backend/test
 
 ```
+
+**Run the application and the API**
+
+```
+python3.6 -m backend.app
+```
